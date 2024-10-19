@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ray\\source\\repos\\BlazorFront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{989E1C3D-1F74-4BE3-BE64-D4DA06E1A354}|..\\BlazorServer\\BlazorServer.csproj|c:\\users\\ray\\source\\repos\\blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E1C3D-1F74-4BE3-BE64-D4DA06E1A354}|..\\BlazorServer\\BlazorServer.csproj|c:\\users\\ray\\source\\repos\\blazorserver\\services\\iuvideojuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DEF25B-57EC-450D-9F48-30A1D00BD25C}|BlazorFront.csproj|c:\\users\\ray\\source\\repos\\blazorfront\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50DEF25B-57EC-450D-9F48-30A1D00BD25C}|BlazorFront.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E1C3D-1F74-4BE3-BE64-D4DA06E1A354}|..\\BlazorServer\\BlazorServer.csproj|c:\\users\\ray\\source\\repos\\blazorserver\\controllers\\videojuegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E1C3D-1F74-4BE3-BE64-D4DA06E1A354}|..\\BlazorServer\\BlazorServer.csproj|c:\\users\\ray\\source\\repos\\blazorserver\\services\\gentionvideojuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E1C3D-1F74-4BE3-BE64-D4DA06E1A354}|..\\BlazorServer\\BlazorServer.csproj|c:\\users\\ray\\source\\repos\\blazorserver\\models\\blazorcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989E1C3D-1F74-4BE3-BE64-D4DA06E1A354}|..\\BlazorServer\\BlazorServer.csproj|c:\\users\\ray\\source\\repos\\blazorserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CECE01-E925-45CC-98E9-44762BA2CD26}|..\\BlazorShared\\BlazorShared.csproj|c:\\users\\ray\\source\\repos\\blazorshared\\videojuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorFront\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorFront\\Pages\\Weather.razor",
+              "RelativeToolTip": "Pages\\Weather.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T21:44:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUvideojuegos.cs",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Services\\IUvideojuegos.cs",
+              "RelativeDocumentMoniker": "..\\BlazorServer\\Services\\IUvideojuegos.cs",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Services\\IUvideojuegos.cs",
+              "RelativeToolTip": "..\\BlazorServer\\Services\\IUvideojuegos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:38:15.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GentionVideojuegos.cs",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Services\\GentionVideojuegos.cs",
+              "RelativeDocumentMoniker": "..\\BlazorServer\\Services\\GentionVideojuegos.cs",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Services\\GentionVideojuegos.cs",
+              "RelativeToolTip": "..\\BlazorServer\\Services\\GentionVideojuegos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:37:33.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlazorCrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Models\\BlazorCrudContext.cs",
+              "RelativeDocumentMoniker": "..\\BlazorServer\\Models\\BlazorCrudContext.cs",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Models\\BlazorCrudContext.cs",
+              "RelativeToolTip": "..\\BlazorServer\\Models\\BlazorCrudContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:37:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideojuegosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Controllers\\VideojuegosController.cs",
+              "RelativeDocumentMoniker": "..\\BlazorServer\\Controllers\\VideojuegosController.cs",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Controllers\\VideojuegosController.cs",
+              "RelativeToolTip": "..\\BlazorServer\\Controllers\\VideojuegosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:37:04.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Program.cs",
+              "RelativeToolTip": "..\\BlazorServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:39:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Videojuegos.cs",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorShared\\Videojuegos.cs",
+              "RelativeDocumentMoniker": "..\\BlazorShared\\Videojuegos.cs",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorShared\\Videojuegos.cs",
+              "RelativeToolTip": "..\\BlazorShared\\Videojuegos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:42:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\BlazorServer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ray\\source\\repos\\BlazorServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\BlazorServer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:37:20.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿@page "/weather"
+@using BlazorShared;
+@inject HttpClient Http
+
+<PageTitle>Weather</PageTitle>
+
+<h1>Weather</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (lista == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Desarrollador</th>
+                <th>Plataforma</th>
+                <th>Género</th>
+                <th>Fecha de Lanzamiento</th>
+                <th>Imagen</th>
+                <th>Descripción</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var videojuego in lista)
+            {
+                <tr>
+                    <td>@videojuego.Nombre</td>
+                    <td>@videojuego.Desarrollador</td>
+                    <td>@videojuego.Plataforma</td>
+                    <td>@videojuego.Genero</td>
+                    <td>@videojuego.FechaLanzamiento.ToString("yyyy-MM-dd")</td>
+                    <td><img src="@videojuego.ImagenPortada" alt="@videojuego.Nombre" style="width: 50px; height: auto;" /></td>
+                    <td>@videojuego.Descripcion</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Videojuegos> lista;
+
+    protected override async Task OnInitializedAsync()
+    {
+        lista = await Http.GetFromJsonAsync<List<Videojuegos>>("api/Videojuegos");
+    }
+
+   
+}
